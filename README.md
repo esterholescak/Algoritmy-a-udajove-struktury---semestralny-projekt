@@ -5,3 +5,4 @@ Hlavným cieľom bolo zabezpečiť flexibilitu a rýchlosť aplikácie.
 To znamená, že aj keď sa zmenia požiadavky na vyhľadávanie alebo triedenie dát, aplikácia sa ľahko prispôsobí bez rozsiahlych zmien v základnom kóde.
 Môj kód sa nachádza v priečinku HolescakovaSEM.
 Priečinky DataStructures a Gui boli vytvorené v škole s pomocou učiteľa.
+Bližšie informácie o aplikácií sa nachádzajú v dokumentácií.
